@@ -18,7 +18,11 @@
         <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100 dark:bg-gray-900">
             <div>
                 <a href="/">
-                    <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
+                    <a href="">
+                        <img src="https://bestof.nyc3.digitaloceanspaces.com/laravel/laravel-laravel-breeze/1.jpg"
+                        alt=""
+                        width="200vh">
+                    </a>
                 </a>
             </div>
 
